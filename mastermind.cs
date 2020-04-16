@@ -1,5 +1,5 @@
 class HelloWorld {
-   static void Main() {
+  public static void Main() {
    int ans = 0;
 //An empty string
    string pass = "";

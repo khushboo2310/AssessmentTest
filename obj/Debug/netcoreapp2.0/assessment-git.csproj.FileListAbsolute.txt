@@ -1,0 +1,3 @@
+/Users/khushboo2310/Desktop/GitProjects/assessment-git/obj/Debug/netcoreapp2.0/assessment-git.csproj.CoreCompileInputs.cache
+/Users/khushboo2310/Desktop/GitProjects/assessment-git/obj/Debug/netcoreapp2.0/assessment-git.AssemblyInfoInputs.cache
+/Users/khushboo2310/Desktop/GitProjects/assessment-git/obj/Debug/netcoreapp2.0/assessment-git.AssemblyInfo.cs
